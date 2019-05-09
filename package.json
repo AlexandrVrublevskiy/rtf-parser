@@ -1,0 +1,17 @@
+{
+  "name": "rtf_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rtfParser.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rtf.js": "^2.3.1"
+  }
+}
